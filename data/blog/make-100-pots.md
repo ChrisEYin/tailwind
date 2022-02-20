@@ -1,5 +1,5 @@
 ---
-title: What Got You Here
+title: Make 100 Pots
 date: '2020-2-02'
 tags: ['artandfear', 'advice', 'loops', 'excellence']
 draft: false
@@ -22,6 +22,6 @@ The simple answer is it’s hard. But more specifically, I think it’s because 
 
 So if you want to be great at something — make 100 pots.
 
-<hr>
+<hr></hr>
 
 *Other writing on this topic: [Peeling The Onion](/life/2019/01/06/peeling-the-onion/) and [The Art in Composting](/life/2017/06/19/art-in-composting/).*
