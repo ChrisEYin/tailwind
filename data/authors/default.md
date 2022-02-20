@@ -6,7 +6,7 @@ company: Yin Cap
 email: christopher.e.yin@gmail.com
 twitter: https://twitter.com/chriseyin
 linkedin: https://www.linkedin.com/in/chriseyin
-github: https://github.com
+github: https://github.com/ChrisEYin
 ---
 
 Hello! I'm Chris Yin -- 30 years old and living in the Bay Area. I'm currently an investor at [Scale Venture Partners](https://www.scalevp.com/) investing in early stage startups. Previously I was VP Product at [Rainforest QA](https://www.rainforestqa.com/), Director of Product Management at [Coupa](https://www.crunchbase.com/organization/coupa) and an early guy at [Xpenser](https://www.crunchbase.com/organization/xpenser). I've also made a number of [angel investments](https://angel.co/chrisyin).
