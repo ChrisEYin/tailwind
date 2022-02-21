@@ -7,7 +7,7 @@ const siteMetadata = {
   theme: 'dark', // system, dark or light
   siteUrl: 'chrisyin.com',
   siteRepo: 'https://github.com/ChrisEYin/tailwind',
-  siteLogo: '/static/images/logo.png',
+  // siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'christopher.e.yin@gmail.com',
