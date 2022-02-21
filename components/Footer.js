@@ -20,7 +20,8 @@ export default function Footer() {
           <div>{`© ${new Date().getFullYear()}`}</div>
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          Built with ♥, <Link href="https://nextjs.org"> Next.js and </Link><Link href="https://tailwindcss.com">Tailwind</Link>
+          Built with ♥<Link href="https://nextjs.org"> Next.js and </Link>
+          <Link href="https://tailwindcss.com">Tailwind</Link>
         </div>
       </div>
     </footer>
